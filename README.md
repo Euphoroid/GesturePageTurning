@@ -12,8 +12,7 @@ Gesture Page turning with CircuitPython and Proximity Trinkey
 └── lib
     ├── adafruit_apds9960
     │   ├── __init__.mpy
-    │   ├── apds9960.mpy
-    │   └── colorutility.mpy
+    │   └── apds9960.mpy
     └── adafruit_hid
         ├── __init__.mpy
         ├── keyboard.mpy
